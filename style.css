@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    
+}
+.highlight-1{
+    color: #FF8367;
+}
+.First-part-1{
+    font-size: 70px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width img{width: 100%;}
+.button-1{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    background-image: linear-gradient(90deg, lightSalmon, tomato);
+    border-radius: 5px;
+}
+.First-part{
+    padding: 100px;
+    height: 400px;
+}
+.Third-part-1{
+    width: 30%;
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+}
+.Third-part-1 img{
+    width: 100%;
+}
+.third-part{
+    padding: 100px;
+    padding-bottom: 500px;
+
+}
+.box-line-shadow{
+    box-shadow: 10px 10px 50px lightgray;
+    padding: 10px;
+    border-radius: 20px;
+}
+.last-photo-padding{
+    padding: 10px;
+}
+.lastpart{
+    padding: 150px;
+    background-image: url(images/shapes/photolast.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 50px;
+    border-radius: 20px;
+}
+.lastsection{
+    width: 33%;
+    float: left;
+    padding: 1px;
+}
+.lastlogo{
+    padding: 10px 300px 50px 300px ;
+}
+.lastsection img{
+    width: 20%;
+}
